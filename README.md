@@ -362,13 +362,22 @@ Global configuration parameters can be adjusted in `config.py`:
 If you use ManimTrainer or ManimAgent in your research, please cite:
 
 ```bibtex
-@article{silva2025manimtrainer,
-  author  = {Ravidu Suien Rammuni Silva and Jordan J. Bird},
+@article{silva2026manimtrainer,
+  author  = {Ravidu Suien Rammuni Silva and Ahmad Lotfi and Isibor Kennedy Ihianle and Golnaz Shahtahmassebi and Jordan J. Bird},
   title   = {Training and Agentic Inference Strategies for {LLM}-based {Manim} Animation Generation},
-  year    = {2025},
+  year    = {2026},
   note    = {Under review},
   doi     = {10.48550/arXiv.2604.18364},
   url     = {https://arxiv.org/abs/2604.18364}
+}
+```
+```bibtex
+@inproceedings{silva2026neuripsfllmpt,
+  author    = {Ravidu Suien Rammuni Silva and Ahmad Lotfi and Isibor Kennedy Ihianle and Golnaz Shahtahmassebi and Jordan J. Bird},
+  title     = {Foundations of {LLM} Post-Training in Changing Environments},
+  booktitle = {NeurIPS 2026 Workshop on Foundations of {LLM} Post-Training in Changing Environments},
+  year      = {2026},
+  url       = {https://openreview.net/todo}
 }
 ```
 
