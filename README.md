@@ -10,9 +10,9 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2604.18364-b31b1b.svg)](https://arxiv.org/abs/2604.18364)
 
 An end-to-end framework for fine-tuning and deploying Large Language Models (LLMs) to generate [Manim](https://www.manim.community/) animation code from natural language descriptions. It combines Supervised Fine-Tuning (SFT) with visually grounded Reinforcement Learning via Group Relative Policy Optimisation (GRPO), and provides agentic inference strategies — Renderer-in-the-Loop (RITL) and API documentation-augmented RITL (RITL-DOC) — for iterative self-correction at inference time.
+> **📝 Research Paper** (**NeurIPS 2026** Workshop on Foundations of LLM Post-Training in Changing Environments): [Visually Grounded Reinforcement Learning for LLM Programmatic Animation Generation in Interactive Execution Environments](https://ravidusilva.com/assets/pdf/rammunisilva2026visually.pdf)
 
-> **📝 Research Paper** _(Under Review)_: [Training and Agentic Inference Strategies for LLM-based Manim Animation Generation
-](https://arxiv.org/abs/2604.18364)
+> **📝 Research Paper** _(Under Review)_: [Training and Agentic Inference Strategies for LLM-based Manim Animation Generation](https://arxiv.org/abs/2604.18364)
 
 ## 📋 Table of Contents
 
@@ -374,7 +374,7 @@ If you use ManimTrainer or ManimAgent in your research, please cite:
 ```bibtex
 @inproceedings{silva2026neuripsfllmpt,
   author    = {Ravidu Suien Rammuni Silva and Ahmad Lotfi and Isibor Kennedy Ihianle and Golnaz Shahtahmassebi and Jordan J. Bird},
-  title     = {Foundations of {LLM} Post-Training in Changing Environments},
+  title     = {Visually Grounded Reinforcement Learning for LLM Programmatic Animation Generation in Interactive Execution Environments},
   booktitle = {NeurIPS 2026 Workshop on Foundations of {LLM} Post-Training in Changing Environments},
   year      = {2026},
   url       = {https://openreview.net/todo}
